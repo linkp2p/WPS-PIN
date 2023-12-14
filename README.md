@@ -21,8 +21,8 @@
 - Unzip the package that you download
    < unzip WPSPIN >
 
-
-
+[wps pin list free
+]([url](https://wpspinlistfree.org/))
 - once situated in the created folder (cd WPSPIN) launch the script with
   < bash WPSPIN.sh >
 
